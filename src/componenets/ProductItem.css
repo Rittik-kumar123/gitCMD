@@ -1,0 +1,10 @@
+.Cardproduct-Item
+{
+    width: 48vw;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    align-items: center;
+    background-color: aqua;
+    border: 1px solid black;
+}
